@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VEDIKA\\Rollin_Mobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{795C80F5-B0A6-1430-33F5-60E167B006AE}|Assembly-CSharp.csproj|C:\\Users\\VEDIKA\\Rollin_Mobile\\assets\\scripts\\tilt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C80F5-B0A6-1430-33F5-60E167B006AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C80F5-B0A6-1430-33F5-60E167B006AE}|Assembly-CSharp.csproj|c:\\users\\vedika\\rollin_mobile\\assets\\scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C80F5-B0A6-1430-33F5-60E167B006AE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Users\\VEDIKA\\Rollin_Mobile\\Assets\\Scripts\\Goal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Goal.cs",
+              "ToolTip": "C:\\Users\\VEDIKA\\Rollin_Mobile\\Assets\\Scripts\\Goal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Goal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:16:32.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tilt.cs",
+              "DocumentMoniker": "C:\\Users\\VEDIKA\\Rollin_Mobile\\Assets\\Scripts\\Tilt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tilt.cs",
+              "ToolTip": "C:\\Users\\VEDIKA\\Rollin_Mobile\\Assets\\Scripts\\Tilt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tilt.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:59:57.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
